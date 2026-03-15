@@ -8,3 +8,5 @@ This small project coulb be characterized as the statistical view of A and B Top
 The analysis was conducted with R programming language and the main questions which answered are:
 1. What types of proofs and how frequently have they appeared in mathematics in the last 10 years?
 2. What is the most common type of function that candidates are asked to work with in Task B? What are the most popular topics?
+
+The full analysis is wroten in Greek and is published in my Linkedin page. If you want to read it you can follow the next link:   
